@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1616626302 source:c:\users\user\desktop\programacion\trabajos\ejercicios\proyecto final\proyectocalculadora\main.c
+	"Librerias.h"
+
+1616625775 c:\users\user\desktop\programacion\trabajos\ejercicios\proyecto final\proyectocalculadora\librerias.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	"decifracc.h"
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1615602514 c:\users\user\desktop\programacion\trabajos\ejercicios\proyecto final\proyectocalculadora\decifracc.h
+	<stdio.h>
+
